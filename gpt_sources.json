@@ -1,1 +1,53 @@
-[{ "age": 42, "income": 73000, "height": 175, "weight": 68, "savings": 5000, "temperature": 30.5, "rating": 4.7, "experience": 5, "distance": 10.5, "speed": 45,"birth_date": "1981-05-15", "joining_date": "2015-10-20", "expiry_date": "2023-12-31", "purchase_date": "2023-07-24", "delivery_date": "2023-07-30","city": "New York", "country": "United States", "category": "Electronics", "brand": "Samsung", "product": "Smartphone","education": "Bachelor's", "employment": "Full-time", "status": "Married", "priority": "High", "satisfaction": "Satisfied"},{ "age": 28, "income": 45000, "height": 160, "weight": 55, "savings": 2000, "temperature": 25.2, "rating": 3.9, "experience": 2, "distance": 5.8, "speed": 30,"birth_date": "1995-08-10", "joining_date": "2021-03-12", "expiry_date": "2022-09-30", "purchase_date": "2023-02-14", "delivery_date": "2023-02-20","city": "London", "country": "United Kingdom", "category": "Fashion", "brand": "Nike", "product": "Sneakers","education": "Master's", "employment": "Part-time", "status": "Single", "priority": "Medium", "satisfaction": "Neutral"}]
+[
+    { "age": 42, "income": 73000, "height": 175, "weight": 68, "savings": 5000, "temperature": 30.5, "rating": 4.7, "experience": 5, "distance": 10.5, "speed": 45,
+      "birth_date": "1981-05-15", "joining_date": "2015-10-20", "expiry_date": "2023-12-31", "purchase_date": "2023-07-24", "delivery_date": "2023-07-30",
+      "city": "New York", "country": "United States", "category": "Electronics", "brand": "Samsung", "product": "Smartphone",
+      "education": "Bachelor's", "employment": "Full-time", "status": "Married", "priority": "High", "satisfaction": "Satisfied"
+    },
+    { "age": 28, "income": 45000, "height": 160, "weight": 55, "savings": 2000, "temperature": 25.2, "rating": 3.9, "experience": 2, "distance": 5.8, "speed": 30,
+      "birth_date": "1995-08-10", "joining_date": "2021-03-12", "expiry_date": "2022-09-30", "purchase_date": "2023-02-14", "delivery_date": "2023-02-20",
+      "city": "London", "country": "United Kingdom", "category": "Fashion", "brand": "Nike", "product": "Sneakers",
+      "education": "Master's", "employment": "Part-time", "status": "Single", "priority": "Medium", "satisfaction": "Neutral"
+    },
+    { "age": 35, "income": 62000, "height": 180, "weight": 75, "savings": 8000, "temperature": 28.7, "rating": 4.2, "experience": 8, "distance": 15.2, "speed": 60,
+      "birth_date": "1988-12-05", "joining_date": "2014-06-18", "expiry_date": "2024-03-31", "purchase_date": "2023-05-05", "delivery_date": "2023-05-12",
+      "city": "Sydney", "country": "Australia", "category": "Home & Garden", "brand": "IKEA", "product": "Dining Table",
+      "education": "PhD", "employment": "Self-employed", "status": "Divorced", "priority": "Low", "satisfaction": "Dissatisfied"
+    },
+    { "age": 55, "income": 82000, "height": 165, "weight": 70, "savings": 12000, "temperature": 22.3, "rating": 4.9, "experience": 15, "distance": 8.5, "speed": 35,
+      "birth_date": "1968-03-28", "joining_date": "2010-07-02", "expiry_date": "2023-09-15", "purchase_date": "2023-06-05", "delivery_date": "2023-06-12",
+      "city": "Tokyo", "country": "Japan", "category": "Beauty", "brand": "L'Oreal", "product": "Anti-aging Cream",
+      "education": "High School", "employment": "Retired", "status": "Widowed", "priority": "Medium", "satisfaction": "Satisfied"
+    },
+    { "age": 31, "income": 54000, "height": 172, "weight": 80, "savings": 3000, "temperature": 26.8, "rating": 4.1, "experience": 3, "distance": 12.3, "speed": 50,
+      "birth_date": "1992-11-20", "joining_date": "2019-09-08", "expiry_date": "2022-08-31", "purchase_date": "2023-01-05", "delivery_date": "2023-01-12",
+      "city": "Berlin", "country": "Germany", "category": "Books", "brand": "Penguin", "product": "Mystery Novel",
+      "education": "Bachelor's", "employment": "Freelance", "status": "In a relationship", "priority": "Low", "satisfaction": "Dissatisfied"
+    },
+    { "age": 40, "income": 71000, "height": 185, "weight": 90, "savings": 10000, "temperature": 31.8, "rating": 4.6, "experience": 12, "distance": 18.7, "speed": 70,
+      "birth_date": "1983-07-12", "joining_date": "2013-04-25", "expiry_date": "2025-01-15", "purchase_date": "2023-03-20", "delivery_date": "2023-03-28",
+      "city": "Paris", "country": "France", "category": "Sports", "brand": "Adidas", "product": "Running Shoes",
+      "education": "Master's", "employment": "Full-time", "status": "Married", "priority": "High", "satisfaction": "Satisfied"
+    },
+    { "age": 25, "income": 38000, "height": 158, "weight": 48, "savings": 1500, "temperature": 27.5, "rating": 3.7, "experience": 1, "distance": 4.6, "speed": 25,
+      "birth_date": "1998-02-02", "joining_date": "2022-11-15", "expiry_date": "2023-12-31", "purchase_date": "2023-07-05", "delivery_date": "2023-07-12",
+      "city": "Toronto", "country": "Canada", "category": "Food & Beverages", "brand": "Coca-Cola", "product": "Soft Drink",
+      "education": "High School", "employment": "Part-time", "status": "Single", "priority": "Medium", "satisfaction": "Neutral"
+    },
+    { "age": 47, "income": 68000, "height": 170, "weight": 62, "savings": 9000, "temperature": 29.2, "rating": 4.3, "experience": 9, "distance": 14.5, "speed": 55,
+      "birth_date": "1976-09-28", "joining_date": "2012-02-10", "expiry_date": "2023-11-30", "purchase_date": "2023-04-10", "delivery_date": "2023-04-18",
+      "city": "Amsterdam", "country": "Netherlands", "category": "Home Appliances", "brand": "Bosch", "product": "Washing Machine",
+      "education": "Bachelor's", "employment": "Full-time", "status": "Married", "priority": "Low", "satisfaction": "Dissatisfied"
+    },
+    { "age": 34, "income": 59000, "height": 177, "weight": 80, "savings": 6500, "temperature": 24.9, "rating": 4.0, "experience": 7, "distance": 9.3, "speed": 40,
+      "birth_date": "1989-04-22", "joining_date": "2016-07-05", "expiry_date": "2023-10-15", "purchase_date": "2023-03-05", "delivery_date": "2023-03-12",
+      "city": "Singapore", "country": "Singapore", "category": "Electronics", "brand": "Apple", "product": "Laptop",
+      "education": "Master's", "employment": "Full-time", "status": "Single", "priority": "Medium", "satisfaction": "Satisfied"
+    },
+    { "age": 39, "income": 69000, "height": 182, "weight": 85, "savings": 7500, "temperature": 26.1, "rating": 4.5, "experience": 10, "distance": 11.7, "speed": 50,
+      "birth_date": "1984-11-17", "joining_date": "2011-09-28", "expiry_date": "2023-07-31", "purchase_date": "2023-02-10", "delivery_date": "2023-02-18",
+      "city": "Moscow", "country": "Russia", "category": "Health & Wellness", "brand": "Johnson & Johnson", "product": "Multivitamins",
+      "education": "PhD", "employment": "Full-time", "status": "Married", "priority": "High", "satisfaction": "Satisfied"
+    }
+]
+  
